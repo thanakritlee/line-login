@@ -93,11 +93,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <p>
-          <button onClick={this.lineLogin}>
-            Line Login
-          </button>
-        </p>
+        <div onClick={this.lineLogin} className="line-button">
+        </div>
       </div>
     );
   }
