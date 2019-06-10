@@ -4,4 +4,4 @@ A ReactJS client that allow user to login using their Line account. JSON Web Tok
 
 ## Resources
 
-- [Integrating LINE Login with your web app](https://developers.line.biz/en/docs/line-login/web/integrate-line-login/#id-tokens)
+- [Integrating LINE Login with your web app](https://developers.line.biz/en/docs/line-login/web/integrate-line-login/)
